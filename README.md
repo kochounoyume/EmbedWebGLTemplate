@@ -1,0 +1,2 @@
+# EmbedWebGLTemplate
+unityのWebGLをGoogleAppsScriptに埋め込むテンプレートです。
