@@ -11,6 +11,6 @@ let method = '';
 let param = '';
 
 function doGet() {
-  var template = 'index';
+  const template = 'index';
   return HtmlService.createTemplateFromFile(template).evaluate();
 }
