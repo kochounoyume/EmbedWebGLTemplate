@@ -17,3 +17,9 @@ WebGLビルドしたプロジェクトが準備できたら、Google Apps Script
 詳しくはUnity公式リファレンスを参照ください。
 
 https://docs.unity3d.com/ja/2021.3/Manual/webgl-interactingwithbrowserscripting.html
+
+# 導入時エラーが発生した場合
+もしかしたら、内部の実装がお使いのunityのバージョンに合わなくなってしまったのかもしれません。
+実装について、以下の記事で説明してますので、これを参照しながら該当部分を少し修正していただけると、いいのかなと...。
+
+https://qiita.com/Butterfly-Dream/items/205d102649f0317d037d
